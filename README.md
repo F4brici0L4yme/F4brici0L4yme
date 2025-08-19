@@ -7,7 +7,6 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
